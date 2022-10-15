@@ -1,3 +1,6 @@
 controllers:
     resource: ../src/Controller/
     type: attribute
+#    CTRL+C pour copier, CTRL+V pour coller
+
+
